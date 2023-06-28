@@ -1,0 +1,20 @@
+.conteudo{
+    display: flex;
+    align-items: center;
+}
+
+.main{
+    background-color: black;
+    background: url("/public/doação.jpg");
+    height: 584px;
+    width: 1197px;
+    border-radius: 16px;
+    margin: 20px 0 0 15px;
+}
+.mulher{
+    background: url("/public/Sangue-Mulher.png");
+    height: 370px;
+    width: 283px ;
+    border-radius: 16px;
+    margin: 20px 0 0 15px;
+}

@@ -1,0 +1,16 @@
+
+.banner{
+    font-family: 'Montserrat', sans-serif;
+    display: grid;
+    background-color: #FF5B5B;
+    grid-template-columns: 1fr 1fr;
+    align-items:center;
+    color: white;
+}
+.banner p{
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+    text-align: end;
+    margin-right: 10px;
+}
